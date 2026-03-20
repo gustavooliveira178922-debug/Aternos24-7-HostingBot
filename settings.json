@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream133",
+    "username": "BOT SAFIRA CRAFT",
     "password": "",
     "type": "offline"
   },
@@ -27,8 +27,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
@@ -36,8 +36,8 @@
         "I like to play Minecraft!"
       ]
     },
-    "chat-log": true,
-    "auto-reconnect": true,
+    "chat-log": false,
+    "auto-reconnect": false,
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000,
     "periodic-rejoin": {
@@ -78,8 +78,8 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1477487650272313569/DHcsgnPdZUSDic7oBWwt6z9HVU_e5AwijHKQ-lo1WSgPLESmS2ERdDTUOucR0_QJAbVe",
     "events": {
       "connect": true,
       "disconnect": true,
